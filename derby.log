@@ -1,0 +1,14 @@
+Fri Oct 30 23:24:22 NZDT 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Oct 30 23:24:22 NZDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-7909-6dec-000007aadae0 
+on database directory /Users/nihalpatel/Downloads/ASSIGNMENT 2/HighScores with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/nihalpatel/Downloads/ASSIGNMENT%202/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=/Users/nihalpatel/Downloads/ASSIGNMENT 2
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
